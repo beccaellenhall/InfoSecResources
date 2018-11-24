@@ -1,16 +1,6 @@
 # InfoSecResources
 A compiled list of the resources that I've found so far to get started in InfoSec.
 
-# Blog Posts
-* [BREAKING INTO INFOSEC: A BEGINNERS CURRICULUM](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
-* [The Big Blog Post of Information Security Training Materials](https://medium.com/@deusexmachina667/the-big-blog-post-of-information-security-training-materials-ad9572223fcd)
-* [InfoSec Basics & Fundamentals](https://www.blackhillsinfosec.com/basics-fundamentals/)
-* [How to Get into Information Security](https://www.blackhillsinfosec.com/get-information-security/)
-
-## Daniel Miessler
-* [How to Build a Successful Career in Cybersecurity](https://danielmiessler.com/blog/build-successful-infosec-career/#gs.DtVCbbw)
-* [Information Security Definitions](https://danielmiessler.com/study/information-security-definitions/)
-
 # Linux
 * [Linux Academy](https://linuxacademy.com)
 
