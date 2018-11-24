@@ -27,7 +27,7 @@ A compiled list of the resources that I've found so far to get started in InfoSe
 
 # Certifications
 
-## [CompTIA](CompTIA Certifications)
+## [CompTIA](https://certification.comptia.org)
 ### Net+
 * [CompTIA Network+](https://certification.comptia.org/certifications/network)
 * [Professor Messer N10-006](https://www.youtube.com/playlist?list=PLG49S3nxzAnnXcPUJbwikr2xAcmKljbnQ)
